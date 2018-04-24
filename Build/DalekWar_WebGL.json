@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "DalekWarGame",
+"dataUrl": "DalekWar_WebGL.data.unityweb",
+"asmCodeUrl": "DalekWar_WebGL.asm.code.unityweb",
+"asmMemoryUrl": "DalekWar_WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "DalekWar_WebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
